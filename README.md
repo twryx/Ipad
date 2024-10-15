@@ -1,1 +1,1 @@
-# Obsidian sync
+# Obsidian sync win& ipad
