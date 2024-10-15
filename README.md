@@ -1,1 +1,1 @@
-# IPAD
+# Obsidian sync btwn win & ipad
